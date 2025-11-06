@@ -8,8 +8,8 @@
 body {
     background: #000000;
     background-image:
-        repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255, 105, 180, 0.1) 35px, rgba(255, 105, 180, 0.1) 70px),
-        repeating-linear-gradient(-45deg, transparent, transparent 35px, rgba(255, 105, 180, 0.05) 35px, rgba(255, 105, 180, 0.05) 70px);
+        repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(169, 189, 149, 0.1) 35px, rgba(169, 189, 149, 0.1) 70px),
+        repeating-linear-gradient(-45deg, transparent, transparent 35px, rgba(140, 171, 129, 0.05) 35px, rgba(140, 171, 129, 0.05) 70px);
     font-family: Arial, sans-serif;
     color: #ffffff;
     min-height: 100vh;
@@ -30,7 +30,7 @@ div {
 h1 {
     font-size: 4rem;
     font-weight: 900;
-    color: #ff69b4;
+    color: #024423;
     letter-spacing: 8px;
     text-transform: uppercase;
     font-family: Arial, sans-serif;
@@ -52,7 +52,7 @@ h2 {
 }
 
 h3 {
-    color: #ff69b4;
+    color: #024423;
     font-size: 1.8rem;
     margin: 1rem;
     text-transform: uppercase;
@@ -71,7 +71,7 @@ p {
 
 img {
     max-width: 50%;
-    border: 3px solid #ff69b4;
+    border: 3px solid #024423;
     margin: 1rem;
 }
 
@@ -85,9 +85,9 @@ audio {
 footer {
     padding: 2rem;
     background: #000000;
-    color: #ff69b4;
+    color: #024423;
     margin: 3rem;
-    border: 1px solid #ff69b4;
+    border: 1px solid #024423;
     font-size: 0.9rem;
     width: 100%;
     display: flex;
@@ -96,7 +96,7 @@ footer {
 }
 
 footer h3 {
-    color: #ff69b4;
+    color: #024423;
 }
 
 footer p {
